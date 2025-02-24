@@ -1,4 +1,9 @@
 # EA-JS
+## Fuentes
+
+Chatgpt 
+https://javascript.info/
+Y el repositorio de ROC sobre el seminario (aysnc/await).
 
 ## Requisitos Previos
 
@@ -32,6 +37,7 @@ Asegúrate de tener instalados los siguientes programas en tu sistema:
 │   ├── 7-secuencial-promises.js
 │   ├── 8-async.js
 │   └── 9-secuencial-async.js
+├── 5 - Actividad.js
 ├── LICENSE
 └── README.md
 ```
